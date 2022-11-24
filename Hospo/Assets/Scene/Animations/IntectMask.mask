@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: IntectMask
+  m_Mask: 00000000000000000000000000000000000000000000000001000000000000000100000000000000000000000000000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Boy:Hips
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:LeftUpLeg
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:LeftUpLeg/Boy:LeftLeg
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:LeftUpLeg/Boy:LeftLeg/Boy:LeftFoot
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:LeftUpLeg/Boy:LeftLeg/Boy:LeftFoot/Boy:LeftToeBase
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:RightUpLeg
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:RightUpLeg/Boy:RightLeg
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:RightUpLeg/Boy:RightLeg/Boy:RightFoot
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:RightUpLeg/Boy:RightLeg/Boy:RightFoot/Boy:RightToeBase
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandIndex1
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandIndex1/Boy:LeftHandIndex2
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandIndex1/Boy:LeftHandIndex2/Boy:LeftHandIndex3
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandIndex1/Boy:LeftHandIndex2/Boy:LeftHandIndex3/Boy:LeftHandIndex4
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandMiddle1
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandMiddle1/Boy:LeftHandMiddle2
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandMiddle1/Boy:LeftHandMiddle2/Boy:LeftHandMiddle3
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandMiddle1/Boy:LeftHandMiddle2/Boy:LeftHandMiddle3/Boy:LeftHandMiddle4
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandPinky1
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandPinky1/Boy:LeftHandPinky2
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandPinky1/Boy:LeftHandPinky2/Boy:LeftHandPinky3
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandPinky1/Boy:LeftHandPinky2/Boy:LeftHandPinky3/Boy:LeftHandPinky4
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandRing1
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandRing1/Boy:LeftHandRing2
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandRing1/Boy:LeftHandRing2/Boy:LeftHandRing3
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandRing1/Boy:LeftHandRing2/Boy:LeftHandRing3/Boy:LeftHandRing4
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandThumb1
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandThumb1/Boy:LeftHandThumb2
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandThumb1/Boy:LeftHandThumb2/Boy:LeftHandThumb3
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:LeftShoulder/Boy:LeftArm/Boy:LeftForeArm/Boy:LeftHand/Boy:LeftHandThumb1/Boy:LeftHandThumb2/Boy:LeftHandThumb3/Boy:LeftHandThumb4
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:Neck
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:Neck/Boy:Head
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:Neck/Boy:Head/Boy:HeadTop_End
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandIndex1
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandIndex1/Boy:RightHandIndex2
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandIndex1/Boy:RightHandIndex2/Boy:RightHandIndex3
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandIndex1/Boy:RightHandIndex2/Boy:RightHandIndex3/Boy:RightHandIndex4
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandMiddle1
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandMiddle1/Boy:RightHandMiddle2
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandMiddle1/Boy:RightHandMiddle2/Boy:RightHandMiddle3
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandMiddle1/Boy:RightHandMiddle2/Boy:RightHandMiddle3/Boy:RightHandMiddle4
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandPinky1
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandPinky1/Boy:RightHandPinky2
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandPinky1/Boy:RightHandPinky2/Boy:RightHandPinky3
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandPinky1/Boy:RightHandPinky2/Boy:RightHandPinky3/Boy:RightHandPinky4
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandRing1
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandRing1/Boy:RightHandRing2
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandRing1/Boy:RightHandRing2/Boy:RightHandRing3
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandRing1/Boy:RightHandRing2/Boy:RightHandRing3/Boy:RightHandRing4
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandThumb1
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandThumb1/Boy:RightHandThumb2
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandThumb1/Boy:RightHandThumb2/Boy:RightHandThumb3
+    m_Weight: 1
+  - m_Path: Boy:Hips/Boy:Spine/Boy:Spine1/Boy:Spine2/Boy:RightShoulder/Boy:RightArm/Boy:RightForeArm/Boy:RightHand/Boy:RightHandThumb1/Boy:RightHandThumb2/Boy:RightHandThumb3/Boy:RightHandThumb4
+    m_Weight: 1
+  - m_Path: Boy_01_Meshes
+    m_Weight: 1
+  - m_Path: Boy_01_Meshes/Boy01_Hair_Geo
+    m_Weight: 1
+  - m_Path: Boy_01_Meshes/Boy01_Hands_Geo
+    m_Weight: 1
+  - m_Path: Boy_01_Meshes/Boy01_Head_Geo
+    m_Weight: 1
+  - m_Path: Boy_01_Meshes/Boy01_LowerBody_Geo
+    m_Weight: 1
+  - m_Path: Boy_01_Meshes/Boy01_Scarf_Geo
+    m_Weight: 1
+  - m_Path: Boy_01_Meshes/Boy01_Shoes_Geo
+    m_Weight: 1
+  - m_Path: Boy_01_Meshes/Boy01_UpperBody_Geo
+    m_Weight: 1
